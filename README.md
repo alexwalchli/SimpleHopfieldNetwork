@@ -1,7 +1,10 @@
 # SimpleHopfieldNetwork
 Stupid simple Hopfield Network implementation in JavaScript
 
-#How to use it
+##Dependencies
+You'll just need http://mathjs.org/.
+
+##How to use it
 ```
 // initialize it by creating a new network and passing in the size
 var simpleHopfieldNetwork = new simpleHopfieldNetwork(6);
